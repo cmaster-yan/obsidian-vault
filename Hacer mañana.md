@@ -1,0 +1,6 @@
+- [x] Mec
+- [x] comprar carne
+- [x] pagar dgi
+- [ ] factura pedidosya
+- [x] Lavar
+- [ ] pagar chapa abitab

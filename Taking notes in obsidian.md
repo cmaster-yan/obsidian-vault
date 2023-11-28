@@ -1,0 +1,1 @@
+Interesting way to take notes in obsidian: https://www.youtube.com/watch?v=QWYG_67ADv4
