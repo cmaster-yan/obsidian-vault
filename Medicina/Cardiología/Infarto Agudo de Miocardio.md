@@ -13,6 +13,7 @@ El infarto agudo de miocardio es definido por el aumento y/o caída del valor de
 Cuando existe Supradesnivel del ST en dos o más derivaciones contiguas
 * Mayor de 1mm en todas las derivaciones excepto V2 y V3
 * En V2 y V3: Hombres <40a >2,5mm, >40a >2mm; Mujeres  >1.5mm
+* BRI Nuevo
 
 # Infarto Posterior
 Cuando existe depresion del ST en segmento V1 a V3, especialmente cuando la onda T es positiva y existe elevación concomitante >= 0.5mm en V7-V9

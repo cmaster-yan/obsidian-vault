@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "879859a0e31ef639",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d259ce80576d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbbefe5b0d8a7dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicina/Parada Cardiaca Extra e Intrahospitalarias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4506f42d4cb1c1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicina/Cardiología/Infarto Agudo de Miocardio con Elevación del ST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b76f8ad159294766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accidente Cerebrovascular (ACV).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da34b9530525221c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bradiarritmias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f52509dbed8f214c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taquicardia intranodal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e95e92076c4a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicina/Parada Cardiaca Extra e Intrahospitalarias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c6bfa323ba6b37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicina/Parada Cardiaca Extra e Intrahospitalarias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c56714567c71d210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taquiarritmias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3033807fcb1dcbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bradicardia Sinusal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58fede6c30af136",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231128174555.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ced79754465e690c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b025f248c2994090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df18a05d3863534",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11aee30ea456dee8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c6b8f66b7a6ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48c611889fdc1b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89263bc8b28a104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d08735ac140b1a95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Taquiarritmias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "124bda8f0eaf74f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Taquiarritmias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ec7b11b7ed5abf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40f0840ed266d9d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Taquiarritmias.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c56714567c71d210",
+  "lastOpenFiles": [
+    "Pasted image 20231212151846.png",
+    "Fármacos.md",
+    "Taquiarritmias.md",
+    "Bradiarritmias.md",
+    "MSP_PROTOCOLO_NACIONAL_ACV.pdf",
+    "Tutoriales Obsidian/Cheat Sheet.md",
+    "Taking notes in obsidian.md",
+    "Accidente Cerebrovascular (ACV).md",
+    "Bloqueo AV de Primer Grado.md",
+    "Medicina/Parada Cardiaca Extra e Intrahospitalarias.md",
+    "Accidente Cerebro Vascular (ACV).md",
+    "Pasted image 20231209152427.png",
+    "IMG_20231209_151407.jpg",
+    "Pasted image 20231209150726.png",
+    "Pasted image 20231209150655.png",
+    "Pasted image 20231209140831.png",
+    "Pasted image 20231209140501.png",
+    "Taquicardia Ventricular.md",
+    "Paro Respiratorio.md",
+    "Pasted image 20231208175149.png",
+    "Pasted image 20231208174621.png",
+    "Pasted image 20231208174619.png",
+    "Pasted image 20231208174615.png",
+    "Equipos de RCP de alto rendimiento.md",
+    "Medicina/Cardiología/Angina inestable.md",
+    "Medicina/Cardiología/Síndrome Coronario Agudo.md",
+    "Medicina/Cardiología/Síndrome Coronario Agudo sin Elevación del segmento ST (SCASEST).md",
+    "Fibrilación Auricular.md",
+    "Taquicardia Auricular.md",
+    "Taquicardia Sinusal.md",
+    "Taquicardia intranodal.md",
+    "Taquicardia ortodrómica.md",
+    "Flutter Auricular.md",
+    "Bloqueo AV de Tercer Grado.md",
+    "Bloqueo AV de Segundo Grado.md",
+    "Síndrome Bradicardia-Taquicardia.md",
+    "Pausa sinusal.md",
+    "Sin título 1.canvas"
+  ]
+}

@@ -1,0 +1,2 @@
+* El mecanismo de reentrada está alejado de la unión AV, por lo que las P retrógradas están mas alejadas del QRS que en las intranodales
+* Al frenar el nodo se observa patrón de WPW con presencia de ondas delta típicas
